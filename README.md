@@ -1,5 +1,11 @@
 # Human Posture Recognition and Classification via Pressure Sensor Grids
 
+## Live Demo
+https://pressuresensorgrids.streamlit.app/
+
+## GitHub Repository
+https://github.com/CypherSpy/Human-Posture-Recognition-and-Classification-via-Pressure-Sensor-Grids
+
 ## Overview
 
 This project presents a machine learning and deep learning framework for in-bed human posture classification using pressure sensor grid data from PhysioNet.
